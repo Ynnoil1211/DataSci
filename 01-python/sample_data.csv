@@ -1,0 +1,15 @@
+order_id,customer,category,quantity,price,date
+1001,ana,electronics,2,59.99,2025-11-02
+1002,leo,clothing,1,29.50,2025-11-03
+1003,ana,home,3,12.75,2025-11-04
+1004,mia,electronics,1,199.00,2025-11-05
+1005,leo,groceries,5,8.40,2025-11-06
+1006,ana,clothing,2,45.00,2025-11-08
+1007,mia,home,1,89.99,2025-11-09
+1008,leo,electronics,1,129.99,2025-11-11
+1009,ana,groceries,4,6.25,2025-11-12
+1010,mia,clothing,3,35.00,2025-11-13
+1011,leo,home,2,54.00,2025-11-15
+1012,ana,electronics,1,749.00,2025-11-16
+1013,mia,groceries,6,4.99,2025-11-17
+1014,leo,clothing,2,22.75,2025-11-18
