@@ -250,6 +250,7 @@ def word_search(doc_list, keyword):
 
 
 print(word_search(docdoc_list, keyword))
+# [0]
 
 
 def multi_word_search(doc_list, keywords):
@@ -274,3 +275,4 @@ def multi_word_search(doc_list, keywords):
 
 
 print(multi_word_search(docdoc_list, ["casino", "they", "car"]))
+# {'casino': [0], 'they': [1], 'car': [1]}
